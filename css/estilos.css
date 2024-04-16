@@ -1,0 +1,23 @@
+form{
+    width: 80%;
+    margin:auto;
+    padding: 20px 60px;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+
+#container2 > div{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 3px;
+}
+#container2 > div span{
+    margin-right: 6px;
+    display: inline-block;
+}
+
+.campo-delgado input {
+    border: 1px solid #343a40; /* Color oscuro del borde */
+    border-radius: 4px; /* Agrega esquinas redondeadas si lo deseas */
+  }
+
+
